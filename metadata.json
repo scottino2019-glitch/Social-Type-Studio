@@ -1,0 +1,6 @@
+{
+  "name": "Social Type Studio",
+  "description": "Studio creativo per testi stilizzati, font artistici, animazioni grafiche ed esportazione ad alta risoluzione in PNG e HTML per Instagram, TikTok e Facebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
